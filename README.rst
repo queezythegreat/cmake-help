@@ -13,14 +13,14 @@ search and read CMake's documentation.
 The utility is a interactive command line where you can Tab your way
 to the documentation you wan.
 
-The following commands are available to you:
+The following commands are available to you::
 
     command   -  Print help for a single command
     module    -  Print help for a single module
     property  -  Print help for a single property
     variable  -  Print help for a single variable
 
-To get a list of available elments use Tab completetion:
+To get a list of available elments use Tab completetion::
 
     [CMake Help] command fi<TAB>
     file          find_file     find_library  
