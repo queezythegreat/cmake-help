@@ -6,7 +6,7 @@ version = '0.1'
 setup(name='CMakeHelp',
       version=version,
       description="CMake Interactive Help System",
-      long_description=open('doc/README').read(),
+      long_description=open('README.rst').read(),
       classifiers=[], # Get strings from http://pypi.python.org/pypi?%3Aaction=list_classifiers
       keywords='cmake interactive help system command line',
       author='Tomasz Bogdal',
